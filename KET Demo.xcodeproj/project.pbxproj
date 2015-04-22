@@ -14,6 +14,10 @@
 		B0309F7A1AE6B34C00FB39B0 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B0309F791AE6B34C00FB39B0 /* Images.xcassets */; };
 		B0309F7D1AE6B34C00FB39B0 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = B0309F7B1AE6B34C00FB39B0 /* LaunchScreen.xib */; };
 		B0309F891AE6B34C00FB39B0 /* KET_DemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = B0309F881AE6B34C00FB39B0 /* KET_DemoTests.m */; };
+		B0309F951AE6B5FC00FB39B0 /* ket-bg.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B0309F921AE6B5FC00FB39B0 /* ket-bg.jpg */; };
+		B0309F961AE6B5FC00FB39B0 /* logo_onetoone_nostyle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B0309F931AE6B5FC00FB39B0 /* logo_onetoone_nostyle.jpg */; };
+		B0309F971AE6B5FC00FB39B0 /* onetoone_display_hed.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B0309F941AE6B5FC00FB39B0 /* onetoone_display_hed.jpg */; };
+		B0309F9F1AE6C41900FB39B0 /* nick_such-5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B0309F9E1AE6C41800FB39B0 /* nick_such-5.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +44,10 @@
 		B0309F821AE6B34C00FB39B0 /* KET DemoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "KET DemoTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B0309F871AE6B34C00FB39B0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B0309F881AE6B34C00FB39B0 /* KET_DemoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KET_DemoTests.m; sourceTree = "<group>"; };
+		B0309F921AE6B5FC00FB39B0 /* ket-bg.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "ket-bg.jpg"; sourceTree = "<group>"; };
+		B0309F931AE6B5FC00FB39B0 /* logo_onetoone_nostyle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = logo_onetoone_nostyle.jpg; sourceTree = "<group>"; };
+		B0309F941AE6B5FC00FB39B0 /* onetoone_display_hed.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = onetoone_display_hed.jpg; sourceTree = "<group>"; };
+		B0309F9E1AE6C41800FB39B0 /* nick_such-5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "nick_such-5.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +94,10 @@
 				B0309F731AE6B34C00FB39B0 /* ViewController.h */,
 				B0309F741AE6B34C00FB39B0 /* ViewController.m */,
 				B0309F761AE6B34C00FB39B0 /* Main.storyboard */,
+				B0309F921AE6B5FC00FB39B0 /* ket-bg.jpg */,
+				B0309F931AE6B5FC00FB39B0 /* logo_onetoone_nostyle.jpg */,
+				B0309F9E1AE6C41800FB39B0 /* nick_such-5.jpg */,
+				B0309F941AE6B5FC00FB39B0 /* onetoone_display_hed.jpg */,
 				B0309F791AE6B34C00FB39B0 /* Images.xcassets */,
 				B0309F7B1AE6B34C00FB39B0 /* LaunchScreen.xib */,
 				B0309F6C1AE6B34C00FB39B0 /* Supporting Files */,
@@ -200,8 +212,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				B0309F781AE6B34C00FB39B0 /* Main.storyboard in Resources */,
+				B0309F971AE6B5FC00FB39B0 /* onetoone_display_hed.jpg in Resources */,
+				B0309F961AE6B5FC00FB39B0 /* logo_onetoone_nostyle.jpg in Resources */,
+				B0309F9F1AE6C41900FB39B0 /* nick_such-5.jpg in Resources */,
 				B0309F7D1AE6B34C00FB39B0 /* LaunchScreen.xib in Resources */,
 				B0309F7A1AE6B34C00FB39B0 /* Images.xcassets in Resources */,
+				B0309F951AE6B5FC00FB39B0 /* ket-bg.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
